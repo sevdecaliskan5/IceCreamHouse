@@ -348,3 +348,105 @@ body {
     margin-top: 10px;
   }
 }
+
+@media (max-width: 1024px) {
+  .header {
+    flex-direction: column;
+    align-items: flex-start;
+    margin: 0 10px;
+  }
+
+  .nav-links {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+  }
+
+  .content h3 {
+    font-size: 4rem;
+  }
+
+  .content p {
+    font-size: 1.5rem;
+  }
+
+  .about-img {
+    width: 100%;
+  }
+
+  .row {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .card-container {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .card {
+    width: 90%;
+  }
+
+  .form {
+    width: 90%;
+  }
+
+  .map {
+    width: 90%;
+  }
+}
+
+@media (max-width: 768px) {
+  .header {
+    padding: 10px;
+  }
+
+  .logo img {
+    width: 50px;
+  }
+
+  .nav-links a {
+    font-size: 18px;
+  }
+
+  .content {
+    margin: 0 5%;
+  }
+
+  .about-sec {
+    margin: 15px;
+  }
+
+  .heading {
+    font-size: 30px;
+  }
+
+  .content h3 {
+    font-size: 3rem;
+  }
+
+  .content p {
+    font-size: 1.2rem;
+  }
+
+  .btn {
+    font-size: 14px;
+  }
+
+  .card {
+    width: 80%;
+  }
+
+  .review {
+    width: 90%;
+  }
+
+  .form {
+    width: 100%;
+  }
+
+  .map {
+    width: 100%;
+  }
+}
