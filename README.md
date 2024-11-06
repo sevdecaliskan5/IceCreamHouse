@@ -22,7 +22,7 @@ This project is a stylish and user-friendly landing page for Yummy Ice Cream Hou
 
 **Contact Us:** Provides a Google Map iframe to show the shop's location and a contact form for users to get in touch.
 
-**Design & Features**
+# Design & Features
 
 **Responsive Design:** The site adapts to all device sizes (mobile, tablet, desktop), ensuring an optimal browsing experience across devices.
 
