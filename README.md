@@ -35,3 +35,5 @@ This project is a stylish and user-friendly landing page for Yummy Ice Cream Hou
 # Live Demo / Preview
 
 To get a better understanding of how the website works, check out the screen recording below. It showcases the responsive design, smooth animations, and interactive features of the page in action. Watch the demo to see the project's features in real-time!
+
+![WelcomeToYummyIceCreamHouse-GoogleChrome2024-10-1519-09-13-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/8a4ce740-3aee-4659-a484-d1848bcf26f5)
